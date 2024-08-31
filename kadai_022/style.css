@@ -43,7 +43,7 @@ p{
 }
 
 p:nth-of-type(2)::first-letter{
-  font-style: bold;
+  font-weight: bold;
   color: rgb(97, 206, 249);
 }
 
